@@ -1,0 +1,56 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python: ["3.10", "3.12"]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python }}
+      - run: pip install -r requirements-dev.txt
+      - run: python -m pytest -q
+
+  demo:
+    # Rebuilds the fictional sample data and the report screenshot from the simulator, and commits them if they changed.
+    needs: tests
+    if: github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build the demo
+        run: python -m capreview demo
+      - name: Screenshot of the report
+        run: |
+          pip install pillow
+          google-chrome --headless=new --no-sandbox --hide-scrollbars --force-device-scale-factor=1 \
+            --window-size=1100,1500 --screenshot=/tmp/report.png "file://$PWD/output/report.html"
+          python - <<'EOF'
+          from PIL import Image
+          im = Image.open("/tmp/report.png").convert("RGB")
+          im = im.resize((1024, round(im.height * 1024 / im.width)), Image.LANCZOS)
+          im.save("docs/report.webp", "WEBP", quality=74, method=6)
+          EOF
+      - name: Commit if changed
+        run: |
+          git add sample_data docs/report.webp
+          if git diff --cached --quiet; then echo "demo data unchanged"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Regenerate demo data and report screenshot"
+          git push
