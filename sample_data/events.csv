@@ -1,0 +1,6 @@
+Start,End,Cluster,Host,Type,VMs,Ticket,Summary
+2026-08-29 22:00,2026-08-30 01:30,MAD-ENG-01,,Maintenance,0,CHG-2207,"AOS upgrade, rolling, one node at a time"
+2026-09-08 14:22,2026-09-08 20:40,MAD-PROD-01,esx-mad-p05,Host failure,31,INC-48812,"Uncorrectable memory error (PSOD); vSphere HA restarted 31 VMs, DIMM replaced"
+2026-09-17 02:10,2026-09-17 02:45,GDL-PROD-01,,Cluster outage,96,INC-48907,Array controller failover stalled the VMFS datastores; all VMs unresponsive for 35 minutes
+2026-09-24 21:00,2026-09-24 23:30,GDL-MGMT-01,esx-gdl-m02,Maintenance,0,CHG-2244,ESXi patch
+2026-10-12 08:00,,GDL-MGMT-01,esx-gdl-m03,Maintenance,0,CHG-2262,"Motherboard replacement, waiting for the part"

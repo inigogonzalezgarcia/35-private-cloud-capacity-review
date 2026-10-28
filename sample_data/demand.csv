@@ -1,0 +1,8 @@
+Project,Cluster,Go-live,Status,VMs,vCPU,RAM GB,Storage GB,Owner,Ticket
+Monitoring stack upgrade,GDL-MGMT-01,2026-11-16,Approved,4,16,64,300,Platform team,CHG-2270
+PLM 2027 upgrade,MAD-PROD-01,2027-01-11,Approved,18,96,384,6000,PLM team,CHG-2291
+PLM DR copy,GDL-PROD-01,2027-01-25,Approved,18,48,192,6000,PLM team,CHG-2292
+CAE licence servers consolidation,MAD-PROD-01,2027-02-01,Proposed,4,16,64,400,Engineering IT,
+Engineering data platform,MAD-PROD-01,2027-03-01,Approved,12,128,512,20000,Data & analytics,CHG-2310
+Simulation farm expansion,MAD-ENG-01,2027-04-05,Approved,6,96,192,3000,Engineering IT,CHG-2318
+Supplier portal,,2027-05-03,Approved,6,24,96,1200,Digital team,
