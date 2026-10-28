@@ -1,0 +1,459 @@
+VM,Cluster,Power state,vCPU,Memory GB,Provisioned GB,Used GB,Datastore,Owner,Service,Last powered on,CPU p95,Mem p95
+gdl-ad-01,GDL-MGMT-01,PoweredOn,8,24,120,70,GDL-MGMT-vSAN,Identity team,Directory services,2026-08-25 08:00,71.0,75.7
+gdl-ad-02,GDL-MGMT-01,PoweredOn,8,24,200,124,GDL-MGMT-vSAN,Identity team,Directory services,2026-10-08 08:00,67.8,61.1
+gdl-ad-03,GDL-MGMT-01,PoweredOn,12,32,300,163,GDL-MGMT-vSAN,Identity team,Directory services,2026-09-29 08:00,76.4,86.9
+gdl-ad-04,GDL-MGMT-01,PoweredOn,12,32,200,132,GDL-MGMT-vSAN,Identity team,Directory services,2026-07-11 08:00,73.8,71.8
+gdl-ad-05,GDL-MGMT-01,PoweredOn,4,16,120,74,GDL-MGMT-vSAN,Identity team,Directory services,2026-07-02 08:00,55.4,88.2
+gdl-ad-06,GDL-MGMT-01,PoweredOn,16,32,800,588,GDL-MGMT-vSAN,Identity team,Directory services,2026-09-08 08:00,74.3,87.7
+gdl-ad-07,GDL-MGMT-01,PoweredOn,8,24,200,159,GDL-MGMT-vSAN,Identity team,Directory services,2026-10-07 08:00,47.8,61.6
+gdl-ad-08,GDL-MGMT-01,PoweredOn,12,32,120,85,GDL-MGMT-vSAN,Identity team,Directory services,2026-09-29 08:00,82.9,49.8
+gdl-ad-09,GDL-MGMT-01,PoweredOn,12,32,120,84,GDL-MGMT-vSAN,Identity team,Directory services,2026-10-09 08:00,59.7,86.0
+gdl-ad-10,GDL-MGMT-01,PoweredOn,8,24,80,39,GDL-MGMT-vSAN,Identity team,Directory services,2026-10-03 08:00,57.9,89.5
+gdl-ad-11,GDL-MGMT-01,PoweredOn,12,32,200,112,GDL-MGMT-vSAN,Identity team,Directory services,2026-09-13 08:00,62.9,62.6
+gdl-ad-12,GDL-MGMT-01,PoweredOn,16,32,800,382,GDL-MGMT-vSAN,Identity team,Directory services,2026-10-17 08:00,53.9,91.8
+gdl-ad-13,GDL-MGMT-01,PoweredOn,8,24,500,348,GDL-MGMT-vSAN,Identity team,Directory services,2026-09-26 08:00,69.7,57.9
+gdl-ad-14,GDL-MGMT-01,PoweredOn,8,24,80,58,GDL-MGMT-vSAN,Identity team,Directory services,2026-08-28 08:00,31.6,83.8
+gdl-mgmt-01,GDL-MGMT-01,PoweredOn,12,32,120,93,GDL-MGMT-vSAN,Platform team,Management tools,2026-10-18 08:00,28.5,55.6
+gdl-mgmt-02,GDL-MGMT-01,PoweredOn,4,16,500,265,GDL-MGMT-vSAN,Platform team,Management tools,2026-09-04 08:00,74.9,47.6
+gdl-mgmt-03,GDL-MGMT-01,PoweredOn,16,32,500,289,GDL-MGMT-vSAN,Platform team,Management tools,2026-08-02 08:00,50.6,56.1
+gdl-mgmt-04,GDL-MGMT-01,PoweredOn,8,24,800,474,GDL-MGMT-vSAN,Platform team,Management tools,2026-07-04 08:00,62.7,57.1
+gdl-mgmt-05,GDL-MGMT-01,PoweredOn,4,16,200,115,GDL-MGMT-vSAN,Platform team,Management tools,2026-08-27 08:00,57.7,63.4
+gdl-mgmt-06,GDL-MGMT-01,PoweredOn,16,32,300,186,GDL-MGMT-vSAN,Platform team,Management tools,2026-09-13 08:00,45.8,45.0
+gdl-mgmt-07,GDL-MGMT-01,PoweredOn,8,24,200,103,GDL-MGMT-vSAN,Platform team,Management tools,2026-07-07 08:00,44.9,84.4
+gdl-mgmt-08,GDL-MGMT-01,PoweredOn,12,32,500,340,GDL-MGMT-vSAN,Platform team,Management tools,2026-10-01 08:00,31.2,69.6
+gdl-mgmt-09,GDL-MGMT-01,PoweredOn,12,32,500,247,GDL-MGMT-vSAN,Platform team,Management tools,2026-09-21 08:00,36.2,53.4
+gdl-mgmt-10,GDL-MGMT-01,PoweredOn,4,16,200,110,GDL-MGMT-vSAN,Platform team,Management tools,2026-08-02 08:00,34.5,85.7
+gdl-mgmt-11,GDL-MGMT-01,PoweredOn,8,24,80,44,GDL-MGMT-vSAN,Platform team,Management tools,2026-08-19 08:00,75.1,57.7
+gdl-mgmt-12,GDL-MGMT-01,PoweredOn,8,24,80,63,GDL-MGMT-vSAN,Platform team,Management tools,2026-07-01 08:00,33.5,76.5
+gdl-mgmt-13,GDL-MGMT-01,PoweredOn,12,32,120,56,GDL-MGMT-vSAN,Platform team,Management tools,2026-10-07 08:00,40.8,74.9
+gdl-mgmt-14,GDL-MGMT-01,PoweredOn,8,24,120,76,GDL-MGMT-vSAN,Platform team,Management tools,2026-09-19 08:00,51.9,66.6
+gdl-mon-01,GDL-MGMT-01,PoweredOn,4,16,300,184,GDL-MGMT-vSAN,Platform team,Monitoring,2026-10-02 08:00,41.2,54.4
+gdl-mon-02,GDL-MGMT-01,PoweredOn,12,32,300,163,GDL-MGMT-vSAN,Platform team,Monitoring,2026-07-11 08:00,66.4,83.7
+gdl-mon-03,GDL-MGMT-01,PoweredOn,12,32,500,244,GDL-MGMT-vSAN,Platform team,Monitoring,2026-10-04 08:00,84.7,83.8
+gdl-mon-04,GDL-MGMT-01,PoweredOn,8,24,120,54,GDL-MGMT-vSAN,Platform team,Monitoring,2026-08-24 08:00,31.2,81.1
+gdl-mon-05,GDL-MGMT-01,PoweredOn,12,32,120,74,GDL-MGMT-vSAN,Platform team,Monitoring,2026-09-30 08:00,66.8,51.1
+gdl-mon-06,GDL-MGMT-01,PoweredOn,8,24,120,68,GDL-MGMT-vSAN,Platform team,Monitoring,2026-08-25 08:00,73.5,46.9
+gdl-mon-07,GDL-MGMT-01,PoweredOn,4,16,200,159,GDL-MGMT-vSAN,Platform team,Monitoring,2026-10-01 08:00,29.4,81.3
+gdl-mon-08,GDL-MGMT-01,PoweredOn,8,24,300,235,GDL-MGMT-vSAN,Platform team,Monitoring,2026-09-11 08:00,68.4,72.3
+gdl-mon-09,GDL-MGMT-01,PoweredOn,8,24,200,133,GDL-MGMT-vSAN,Platform team,Monitoring,2026-10-22 08:00,55.3,64.5
+gdl-mon-10,GDL-MGMT-01,PoweredOn,8,24,800,585,GDL-MGMT-vSAN,Platform team,Monitoring,2026-07-09 08:00,50.0,67.7
+gdl-mon-11,GDL-MGMT-01,PoweredOn,12,32,120,77,GDL-MGMT-vSAN,Platform team,Monitoring,2026-10-08 08:00,69.5,90.3
+gdl-mon-12,GDL-MGMT-01,PoweredOn,16,32,200,98,GDL-MGMT-vSAN,Platform team,Monitoring,2026-07-23 08:00,69.5,68.7
+gdl-mon-13,GDL-MGMT-01,PoweredOn,16,32,800,389,GDL-MGMT-vSAN,Platform team,Monitoring,2026-07-10 08:00,57.4,59.9
+gdl-mon-14,GDL-MGMT-01,PoweredOn,8,24,800,415,GDL-MGMT-vSAN,Platform team,Monitoring,2026-08-02 08:00,78.7,86.8
+gdl-mon-prx01,GDL-MGMT-01,PoweredOn,8,32,400,214,GDL-MGMT-vSAN,Platform team,Monitoring,2026-09-27 08:00,41.0,66.0
+gdl-app-01,GDL-PROD-01,PoweredOn,2,8,800,365,GDL-VMFS-01,Applications team,Line-of-business apps,2026-07-18 08:00,47.9,81.8
+gdl-app-02,GDL-PROD-01,PoweredOn,16,64,80,53,GDL-VMFS-01,Applications team,Line-of-business apps,2026-10-15 08:00,44.4,91.2
+gdl-app-03,GDL-PROD-01,PoweredOn,4,16,300,149,GDL-VMFS-01,Applications team,Line-of-business apps,2026-09-12 08:00,43.6,66.6
+gdl-app-04,GDL-PROD-01,PoweredOn,4,16,500,245,GDL-VMFS-02,Applications team,Line-of-business apps,2026-07-06 08:00,58.6,64.0
+gdl-app-05,GDL-PROD-01,PoweredOn,4,16,80,47,GDL-VMFS-01,Applications team,Line-of-business apps,2026-10-04 08:00,30.4,57.9
+gdl-app-06,GDL-PROD-01,PoweredOn,4,16,200,150,GDL-VMFS-02,Applications team,Line-of-business apps,2026-07-31 08:00,43.9,72.4
+gdl-app-07,GDL-PROD-01,PoweredOn,4,16,500,287,GDL-VMFS-01,Applications team,Line-of-business apps,2026-08-12 08:00,36.5,80.4
+gdl-app-08,GDL-PROD-01,PoweredOn,8,48,800,640,GDL-VMFS-01,Applications team,Line-of-business apps,2026-10-24 08:00,34.7,75.4
+gdl-app-09,GDL-PROD-01,PoweredOn,2,8,120,85,GDL-VMFS-03,Applications team,Line-of-business apps,2026-07-27 08:00,33.5,55.0
+gdl-app-10,GDL-PROD-01,PoweredOn,8,48,800,414,GDL-VMFS-02,Applications team,Line-of-business apps,2026-08-31 08:00,36.1,87.7
+gdl-app-11,GDL-PROD-01,PoweredOn,8,32,80,58,GDL-VMFS-02,Applications team,Line-of-business apps,2026-09-15 08:00,75.2,86.2
+gdl-app-12,GDL-PROD-01,PoweredOn,8,32,120,85,GDL-VMFS-02,Applications team,Line-of-business apps,2026-09-09 08:00,42.2,87.3
+gdl-app-13,GDL-PROD-01,PoweredOn,8,32,800,499,GDL-VMFS-03,Applications team,Line-of-business apps,2026-10-04 08:00,32.4,45.9
+gdl-app-14,GDL-PROD-01,PoweredOn,8,32,80,52,GDL-VMFS-02,Applications team,Line-of-business apps,2026-08-24 08:00,41.0,78.3
+gdl-app-15,GDL-PROD-01,PoweredOn,16,64,200,117,GDL-VMFS-01,Applications team,Line-of-business apps,2026-09-14 08:00,68.1,50.7
+gdl-app-16,GDL-PROD-01,PoweredOn,8,48,300,200,GDL-VMFS-01,Applications team,Line-of-business apps,2026-09-22 08:00,30.6,65.0
+gdl-app-17,GDL-PROD-01,PoweredOn,8,48,500,339,GDL-VMFS-01,Applications team,Line-of-business apps,2026-07-01 08:00,50.4,75.8
+gdl-app-18,GDL-PROD-01,PoweredOn,4,16,200,91,GDL-VMFS-01,Applications team,Line-of-business apps,2026-10-01 08:00,84.4,55.0
+gdl-app-19,GDL-PROD-01,PoweredOn,8,32,120,64,GDL-VMFS-01,Applications team,Line-of-business apps,2026-08-04 08:00,75.4,48.7
+gdl-app-20,GDL-PROD-01,PoweredOn,2,8,500,340,GDL-VMFS-03,Applications team,Line-of-business apps,2026-07-02 08:00,39.4,52.6
+gdl-app-21,GDL-PROD-01,PoweredOn,2,8,80,61,GDL-VMFS-03,Applications team,Line-of-business apps,2026-07-13 08:00,56.7,64.7
+gdl-app-22,GDL-PROD-01,PoweredOn,4,16,200,150,GDL-VMFS-01,Applications team,Line-of-business apps,2026-09-06 08:00,68.0,70.2
+gdl-app-23,GDL-PROD-01,PoweredOn,8,32,120,79,GDL-VMFS-01,Applications team,Line-of-business apps,2026-07-24 08:00,62.9,69.8
+gdl-app-24,GDL-PROD-01,PoweredOn,8,48,120,70,GDL-VMFS-01,Applications team,Line-of-business apps,2026-08-13 08:00,73.0,85.9
+gdl-app-25,GDL-PROD-01,PoweredOn,4,16,500,355,GDL-VMFS-01,Applications team,Line-of-business apps,2026-08-26 08:00,47.6,56.9
+gdl-app-ivr01,GDL-PROD-01,PoweredOn,8,32,400,205,GDL-VMFS-01,Applications team,IVR,2026-09-27 08:00,41.0,66.0
+gdl-bkp-01,GDL-PROD-01,PoweredOn,8,48,500,308,GDL-VMFS-01,Backup team,Backup proxies,2026-09-09 08:00,69.1,90.3
+gdl-bkp-02,GDL-PROD-01,PoweredOn,8,32,800,367,GDL-VMFS-03,Backup team,Backup proxies,2026-09-09 08:00,67.4,83.5
+gdl-bkp-03,GDL-PROD-01,PoweredOn,8,48,120,78,GDL-VMFS-01,Backup team,Backup proxies,2026-08-13 08:00,38.7,86.2
+gdl-bkp-04,GDL-PROD-01,PoweredOn,2,8,80,48,GDL-VMFS-02,Backup team,Backup proxies,2026-08-31 08:00,66.5,63.2
+gdl-bkp-05,GDL-PROD-01,PoweredOn,8,48,120,57,GDL-VMFS-02,Backup team,Backup proxies,2026-07-25 08:00,30.2,76.1
+gdl-bkp-06,GDL-PROD-01,PoweredOn,4,16,200,110,GDL-VMFS-03,Backup team,Backup proxies,2026-07-05 08:00,53.9,53.1
+gdl-bkp-07,GDL-PROD-01,PoweredOn,4,16,80,41,GDL-VMFS-01,Backup team,Backup proxies,2026-08-03 08:00,56.1,91.7
+gdl-bkp-08,GDL-PROD-01,PoweredOn,16,64,120,96,GDL-VMFS-01,Backup team,Backup proxies,2026-08-07 08:00,37.4,64.4
+gdl-bkp-09,GDL-PROD-01,PoweredOn,8,32,80,49,GDL-VMFS-02,Backup team,Backup proxies,2026-09-25 08:00,53.3,61.7
+gdl-bkp-10,GDL-PROD-01,PoweredOn,4,16,200,120,GDL-VMFS-03,Backup team,Backup proxies,2026-08-27 08:00,57.4,78.1
+gdl-bkp-11,GDL-PROD-01,PoweredOn,16,64,200,117,GDL-VMFS-02,Backup team,Backup proxies,2026-09-26 08:00,38.6,52.2
+gdl-bkp-12,GDL-PROD-01,PoweredOn,4,16,300,189,GDL-VMFS-03,Backup team,Backup proxies,2026-09-12 08:00,51.2,59.1
+gdl-bkp-13,GDL-PROD-01,PoweredOn,8,32,80,62,GDL-VMFS-03,Backup team,Backup proxies,2026-09-25 08:00,50.0,51.0
+gdl-bkp-14,GDL-PROD-01,PoweredOn,8,48,80,36,GDL-VMFS-02,Backup team,Backup proxies,2026-07-11 08:00,52.3,81.5
+gdl-bkp-15,GDL-PROD-01,PoweredOn,8,32,300,192,GDL-VMFS-02,Backup team,Backup proxies,2026-08-19 08:00,29.4,71.8
+gdl-bkp-16,GDL-PROD-01,PoweredOn,8,48,120,69,GDL-VMFS-02,Backup team,Backup proxies,2026-08-27 08:00,43.6,73.9
+gdl-bkp-17,GDL-PROD-01,PoweredOn,8,32,120,83,GDL-VMFS-02,Backup team,Backup proxies,2026-10-12 08:00,35.8,62.5
+gdl-bkp-18,GDL-PROD-01,PoweredOn,4,16,120,67,GDL-VMFS-02,Backup team,Backup proxies,2026-09-01 08:00,37.3,77.0
+gdl-bkp-19,GDL-PROD-01,PoweredOn,16,64,80,39,GDL-VMFS-02,Backup team,Backup proxies,2026-07-25 08:00,75.0,60.1
+gdl-bkp-20,GDL-PROD-01,PoweredOn,4,16,200,132,GDL-VMFS-03,Backup team,Backup proxies,2026-07-14 08:00,44.7,66.7
+gdl-bkp-21,GDL-PROD-01,PoweredOn,8,48,300,233,GDL-VMFS-02,Backup team,Backup proxies,2026-10-23 08:00,48.8,53.5
+gdl-bkp-22,GDL-PROD-01,PoweredOn,8,48,120,92,GDL-VMFS-02,Backup team,Backup proxies,2026-09-13 08:00,75.4,50.2
+gdl-bkp-23,GDL-PROD-01,PoweredOn,8,32,800,499,GDL-VMFS-02,Backup team,Backup proxies,2026-08-28 08:00,33.7,67.8
+gdl-bkp-24,GDL-PROD-01,PoweredOn,4,16,80,62,GDL-VMFS-02,Backup team,Backup proxies,2026-10-21 08:00,84.4,48.9
+gdl-bkp-25,GDL-PROD-01,PoweredOn,16,64,80,51,GDL-VMFS-02,Backup team,Backup proxies,2026-09-08 08:00,30.4,74.0
+gdl-bkp-26,GDL-PROD-01,PoweredOn,2,8,80,63,GDL-VMFS-03,Backup team,Backup proxies,2026-09-22 08:00,68.5,85.5
+gdl-dr-01,GDL-PROD-01,PoweredOn,8,48,300,216,GDL-VMFS-02,Platform team,DR replicas,2026-10-19 08:00,72.5,87.7
+gdl-dr-02,GDL-PROD-01,PoweredOn,4,16,120,74,GDL-VMFS-02,Platform team,DR replicas,2026-06-30 08:00,29.1,50.6
+gdl-dr-03,GDL-PROD-01,PoweredOn,8,48,300,147,GDL-VMFS-02,Platform team,DR replicas,2026-08-25 08:00,71.0,84.1
+gdl-dr-04,GDL-PROD-01,PoweredOn,8,32,500,293,GDL-VMFS-02,Platform team,DR replicas,2026-09-29 08:00,80.5,47.9
+gdl-dr-05,GDL-PROD-01,PoweredOn,2,8,80,43,GDL-VMFS-01,Platform team,DR replicas,2026-07-29 08:00,47.4,56.0
+gdl-dr-06,GDL-PROD-01,PoweredOn,2,8,120,79,GDL-VMFS-03,Platform team,DR replicas,2026-07-06 08:00,45.1,53.0
+gdl-dr-07,GDL-PROD-01,PoweredOn,16,64,80,41,GDL-VMFS-03,Platform team,DR replicas,2026-08-26 08:00,58.7,82.1
+gdl-dr-08,GDL-PROD-01,PoweredOn,8,32,120,92,GDL-VMFS-01,Platform team,DR replicas,2026-07-18 08:00,76.6,47.2
+gdl-dr-09,GDL-PROD-01,PoweredOn,2,8,800,484,GDL-VMFS-01,Platform team,DR replicas,2026-10-14 08:00,42.7,82.5
+gdl-dr-10,GDL-PROD-01,PoweredOn,16,64,80,40,GDL-VMFS-03,Platform team,DR replicas,2026-10-19 08:00,42.7,70.5
+gdl-dr-11,GDL-PROD-01,PoweredOn,8,32,800,408,GDL-VMFS-01,Platform team,DR replicas,2026-07-21 08:00,42.6,50.2
+gdl-dr-12,GDL-PROD-01,PoweredOn,8,48,200,152,GDL-VMFS-02,Platform team,DR replicas,2026-07-13 08:00,77.4,54.4
+gdl-dr-13,GDL-PROD-01,PoweredOn,4,16,80,44,GDL-VMFS-03,Platform team,DR replicas,2026-07-19 08:00,49.1,73.7
+gdl-dr-14,GDL-PROD-01,PoweredOn,4,16,80,57,GDL-VMFS-03,Platform team,DR replicas,2026-09-12 08:00,56.9,91.6
+gdl-dr-15,GDL-PROD-01,PoweredOn,8,48,80,55,GDL-VMFS-02,Platform team,DR replicas,2026-09-14 08:00,33.9,87.5
+gdl-dr-16,GDL-PROD-01,PoweredOn,16,64,500,387,GDL-VMFS-03,Platform team,DR replicas,2026-07-08 08:00,34.7,57.9
+gdl-dr-17,GDL-PROD-01,PoweredOn,8,32,800,371,GDL-VMFS-01,Platform team,DR replicas,2026-10-24 08:00,62.0,88.9
+gdl-dr-18,GDL-PROD-01,PoweredOn,16,64,200,138,GDL-VMFS-01,Platform team,DR replicas,2026-10-12 08:00,48.2,66.6
+gdl-dr-19,GDL-PROD-01,PoweredOn,16,64,80,62,GDL-VMFS-02,Platform team,DR replicas,2026-10-16 08:00,29.4,84.4
+gdl-dr-20,GDL-PROD-01,PoweredOn,2,8,500,228,GDL-VMFS-01,Platform team,DR replicas,2026-10-05 08:00,36.8,46.2
+gdl-dr-21,GDL-PROD-01,PoweredOn,4,16,500,374,GDL-VMFS-02,Platform team,DR replicas,2026-09-14 08:00,77.2,65.2
+gdl-dr-22,GDL-PROD-01,PoweredOn,8,32,80,51,GDL-VMFS-02,Platform team,DR replicas,2026-09-07 08:00,53.5,82.7
+gdl-dr-23,GDL-PROD-01,PoweredOn,4,16,500,252,GDL-VMFS-01,Platform team,DR replicas,2026-07-29 08:00,36.6,89.4
+gdl-dr-24,GDL-PROD-01,PoweredOn,2,8,800,456,GDL-VMFS-02,Platform team,DR replicas,2026-09-26 08:00,46.7,83.9
+gdl-dr-25,GDL-PROD-01,PoweredOn,2,8,200,116,GDL-VMFS-01,Platform team,DR replicas,2026-06-29 08:00,28.1,84.5
+gdl-dr-26,GDL-PROD-01,PoweredOn,2,8,200,149,GDL-VMFS-03,Platform team,DR replicas,2026-08-09 08:00,84.0,84.1
+gdl-drtest-erp01,GDL-PROD-01,PoweredOff,8,32,800,603,GDL-VMFS-02,Platform team,DR test leftover,2026-03-11 08:00,,
+gdl-drtest-erp02,GDL-PROD-01,PoweredOff,8,32,800,391,GDL-VMFS-02,Platform team,DR test leftover,2026-03-11 08:00,,
+gdl-drtest-plm01,GDL-PROD-01,PoweredOff,8,64,1200,955,GDL-VMFS-02,Platform team,DR test leftover,2026-03-11 08:00,,
+gdl-file-01,GDL-PROD-01,PoweredOn,8,32,500,320,GDL-VMFS-03,Workplace team,File services,2026-09-12 08:00,74.3,51.1
+gdl-file-02,GDL-PROD-01,PoweredOn,16,64,800,446,GDL-VMFS-02,Workplace team,File services,2026-07-15 08:00,66.9,49.8
+gdl-file-03,GDL-PROD-01,PoweredOn,2,8,200,134,GDL-VMFS-03,Workplace team,File services,2026-08-21 08:00,45.5,66.7
+gdl-file-04,GDL-PROD-01,PoweredOn,8,32,200,122,GDL-VMFS-03,Workplace team,File services,2026-07-13 08:00,60.4,88.9
+gdl-file-05,GDL-PROD-01,PoweredOn,8,48,500,285,GDL-VMFS-01,Workplace team,File services,2026-09-05 08:00,59.7,76.4
+gdl-file-06,GDL-PROD-01,PoweredOn,4,16,300,153,GDL-VMFS-03,Workplace team,File services,2026-09-01 08:00,51.4,59.6
+gdl-file-07,GDL-PROD-01,PoweredOn,8,32,500,325,GDL-VMFS-02,Workplace team,File services,2026-09-12 08:00,30.5,85.7
+gdl-file-08,GDL-PROD-01,PoweredOn,8,32,120,70,GDL-VMFS-03,Workplace team,File services,2026-07-11 08:00,37.0,84.8
+gdl-file-09,GDL-PROD-01,PoweredOn,8,48,200,154,GDL-VMFS-02,Workplace team,File services,2026-07-03 08:00,72.2,78.5
+gdl-file-10,GDL-PROD-01,PoweredOn,8,32,120,92,GDL-VMFS-03,Workplace team,File services,2026-06-29 08:00,45.1,57.9
+gdl-file-11,GDL-PROD-01,PoweredOn,8,32,300,149,GDL-VMFS-01,Workplace team,File services,2026-10-16 08:00,74.8,76.2
+gdl-file-12,GDL-PROD-01,PoweredOn,16,64,120,80,GDL-VMFS-03,Workplace team,File services,2026-07-29 08:00,76.8,72.3
+gdl-file-13,GDL-PROD-01,PoweredOn,8,48,80,60,GDL-VMFS-03,Workplace team,File services,2026-09-08 08:00,33.2,58.7
+gdl-file-14,GDL-PROD-01,PoweredOn,8,32,500,380,GDL-VMFS-03,Workplace team,File services,2026-09-27 08:00,69.2,74.9
+gdl-file-15,GDL-PROD-01,PoweredOn,8,32,200,114,GDL-VMFS-01,Workplace team,File services,2026-08-15 08:00,72.0,49.6
+gdl-file-16,GDL-PROD-01,PoweredOn,8,32,500,320,GDL-VMFS-02,Workplace team,File services,2026-10-18 08:00,60.3,64.9
+gdl-file-17,GDL-PROD-01,PoweredOn,4,16,120,69,GDL-VMFS-01,Workplace team,File services,2026-07-27 08:00,63.9,68.0
+gdl-file-18,GDL-PROD-01,PoweredOn,16,64,80,56,GDL-VMFS-03,Workplace team,File services,2026-07-03 08:00,79.7,90.2
+gdl-file-19,GDL-PROD-01,PoweredOn,4,16,200,109,GDL-VMFS-01,Workplace team,File services,2026-08-09 08:00,60.7,82.7
+gdl-file-20,GDL-PROD-01,PoweredOn,8,32,120,65,GDL-VMFS-03,Workplace team,File services,2026-10-18 08:00,31.7,66.8
+gdl-file-21,GDL-PROD-01,PoweredOn,4,16,120,66,GDL-VMFS-01,Workplace team,File services,2026-09-20 08:00,33.8,78.5
+gdl-file-22,GDL-PROD-01,PoweredOn,8,48,300,198,GDL-VMFS-01,Workplace team,File services,2026-07-05 08:00,40.3,78.7
+gdl-file-23,GDL-PROD-01,PoweredOn,8,48,80,45,GDL-VMFS-01,Workplace team,File services,2026-09-18 08:00,64.4,66.8
+gdl-file-24,GDL-PROD-01,PoweredOn,2,8,800,387,GDL-VMFS-03,Workplace team,File services,2026-10-16 08:00,78.9,47.1
+gdl-file-25,GDL-PROD-01,PoweredOn,8,32,200,143,GDL-VMFS-02,Workplace team,File services,2026-09-27 08:00,28.7,84.0
+gdl-file-26,GDL-PROD-01,PoweredOn,8,32,800,573,GDL-VMFS-01,Workplace team,File services,2026-10-15 08:00,43.0,71.2
+gdl-file-old01,GDL-PROD-01,PoweredOn,4,16,2500,1887,GDL-VMFS-03,Workplace team,File services (migrated),2025-06-14 08:00,1.0,8.0
+gdl-sql-01,GDL-PROD-01,PoweredOn,8,48,500,342,GDL-VMFS-01,Database team,SQL Server,2026-10-03 08:00,67.9,63.4
+gdl-sql-02,GDL-PROD-01,PoweredOn,8,32,80,41,GDL-VMFS-03,Database team,SQL Server,2026-10-10 08:00,69.5,88.0
+gdl-sql-03,GDL-PROD-01,PoweredOn,2,8,300,181,GDL-VMFS-02,Database team,SQL Server,2026-09-09 08:00,75.9,82.7
+gdl-sql-04,GDL-PROD-01,PoweredOn,16,64,500,266,GDL-VMFS-02,Database team,SQL Server,2026-08-20 08:00,66.2,69.5
+gdl-sql-05,GDL-PROD-01,PoweredOn,4,16,500,294,GDL-VMFS-02,Database team,SQL Server,2026-09-27 08:00,50.6,87.7
+gdl-sql-06,GDL-PROD-01,PoweredOn,8,48,300,231,GDL-VMFS-03,Database team,SQL Server,2026-09-24 08:00,79.3,46.3
+gdl-sql-07,GDL-PROD-01,PoweredOn,16,64,800,440,GDL-VMFS-02,Database team,SQL Server,2026-07-07 08:00,72.0,78.4
+gdl-sql-08,GDL-PROD-01,PoweredOn,16,64,200,113,GDL-VMFS-03,Database team,SQL Server,2026-09-15 08:00,44.9,61.2
+gdl-sql-09,GDL-PROD-01,PoweredOn,16,64,120,61,GDL-VMFS-02,Database team,SQL Server,2026-09-16 08:00,57.2,79.9
+gdl-sql-10,GDL-PROD-01,PoweredOn,16,64,300,156,GDL-VMFS-03,Database team,SQL Server,2026-10-23 08:00,61.3,49.6
+gdl-sql-11,GDL-PROD-01,PoweredOn,8,48,120,66,GDL-VMFS-03,Database team,SQL Server,2026-10-24 08:00,76.4,60.5
+gdl-sql-12,GDL-PROD-01,PoweredOn,8,32,200,91,GDL-VMFS-02,Database team,SQL Server,2026-10-15 08:00,57.2,46.5
+gdl-sql-13,GDL-PROD-01,PoweredOn,2,8,800,376,GDL-VMFS-03,Database team,SQL Server,2026-08-28 08:00,63.2,49.5
+gdl-sql-14,GDL-PROD-01,PoweredOn,16,64,200,110,GDL-VMFS-03,Database team,SQL Server,2026-08-06 08:00,75.9,61.6
+gdl-sql-15,GDL-PROD-01,PoweredOn,8,32,120,89,GDL-VMFS-03,Database team,SQL Server,2026-07-27 08:00,39.1,91.2
+gdl-sql-16,GDL-PROD-01,PoweredOn,8,32,120,94,GDL-VMFS-03,Database team,SQL Server,2026-09-05 08:00,70.4,77.1
+gdl-sql-17,GDL-PROD-01,PoweredOn,8,32,80,42,GDL-VMFS-01,Database team,SQL Server,2026-07-19 08:00,31.9,80.7
+gdl-sql-18,GDL-PROD-01,PoweredOn,8,32,200,113,GDL-VMFS-03,Database team,SQL Server,2026-07-25 08:00,37.2,47.5
+gdl-sql-19,GDL-PROD-01,PoweredOn,4,16,800,597,GDL-VMFS-01,Database team,SQL Server,2026-09-05 08:00,79.8,81.7
+gdl-sql-20,GDL-PROD-01,PoweredOn,8,48,800,541,GDL-VMFS-02,Database team,SQL Server,2026-09-07 08:00,60.2,84.8
+gdl-sql-21,GDL-PROD-01,PoweredOn,4,16,800,508,GDL-VMFS-01,Database team,SQL Server,2026-10-16 08:00,57.6,59.9
+gdl-sql-22,GDL-PROD-01,PoweredOn,2,8,200,120,GDL-VMFS-02,Database team,SQL Server,2026-07-11 08:00,50.9,45.5
+gdl-sql-23,GDL-PROD-01,PoweredOn,4,16,800,454,GDL-VMFS-02,Database team,SQL Server,2026-07-24 08:00,31.7,88.7
+gdl-sql-24,GDL-PROD-01,PoweredOn,16,64,120,80,GDL-VMFS-03,Database team,SQL Server,2026-09-18 08:00,55.4,78.7
+gdl-sql-25,GDL-PROD-01,PoweredOn,4,16,800,425,GDL-VMFS-03,Database team,SQL Server,2026-10-05 08:00,55.7,46.8
+gdl-tmp-restore,GDL-PROD-01,PoweredOff,4,16,1500,955,GDL-VMFS-01,,,2025-12-01 08:00,,
+mad-cae-01,MAD-ENG-01,PoweredOn,16,32,120,88,ENG-CTR-01,Engineering IT,CAE pre/post,2026-07-22 08:00,46.1,49.8
+mad-cae-02,MAD-ENG-01,PoweredOn,8,32,120,74,ENG-CTR-01,Engineering IT,CAE pre/post,2026-09-25 08:00,43.0,71.7
+mad-cae-03,MAD-ENG-01,PoweredOn,32,64,300,169,ENG-CTR-01,Engineering IT,CAE pre/post,2026-08-14 08:00,40.8,72.4
+mad-cae-04,MAD-ENG-01,PoweredOn,8,32,800,485,ENG-CTR-01,Engineering IT,CAE pre/post,2026-09-08 08:00,73.1,77.0
+mad-cae-05,MAD-ENG-01,PoweredOn,16,32,500,265,ENG-CTR-01,Engineering IT,CAE pre/post,2026-09-02 08:00,66.4,79.5
+mad-cae-06,MAD-ENG-01,PoweredOn,32,64,200,124,ENG-CTR-01,Engineering IT,CAE pre/post,2026-10-07 08:00,78.9,74.3
+mad-cae-07,MAD-ENG-01,PoweredOn,16,32,800,406,ENG-CTR-01,Engineering IT,CAE pre/post,2026-07-23 08:00,75.6,53.8
+mad-cae-08,MAD-ENG-01,PoweredOn,32,64,500,249,ENG-CTR-01,Engineering IT,CAE pre/post,2026-09-15 08:00,52.6,45.6
+mad-cae-09,MAD-ENG-01,PoweredOn,32,64,300,222,ENG-CTR-01,Engineering IT,CAE pre/post,2026-09-07 08:00,54.9,48.6
+mad-cae-10,MAD-ENG-01,PoweredOn,32,64,500,357,ENG-CTR-01,Engineering IT,CAE pre/post,2026-08-16 08:00,65.8,77.0
+mad-cae-11,MAD-ENG-01,PoweredOn,32,64,500,348,ENG-CTR-01,Engineering IT,CAE pre/post,2026-10-09 08:00,47.6,63.3
+mad-cae-12,MAD-ENG-01,PoweredOn,8,32,800,584,ENG-CTR-01,Engineering IT,CAE pre/post,2026-09-19 08:00,29.0,58.7
+mad-cae-13,MAD-ENG-01,PoweredOn,16,32,200,124,ENG-CTR-01,Engineering IT,CAE pre/post,2026-07-05 08:00,36.9,69.2
+mad-cae-14,MAD-ENG-01,PoweredOn,16,32,800,489,ENG-CTR-01,Engineering IT,CAE pre/post,2026-08-07 08:00,81.9,56.1
+mad-cae-15,MAD-ENG-01,PoweredOn,32,64,80,61,ENG-CTR-01,Engineering IT,CAE pre/post,2026-07-15 08:00,60.8,90.2
+mad-cae-16,MAD-ENG-01,PoweredOn,16,32,300,164,ENG-CTR-01,Engineering IT,CAE pre/post,2026-10-17 08:00,32.2,67.9
+mad-cae-17,MAD-ENG-01,PoweredOn,32,64,800,571,ENG-CTR-01,Engineering IT,CAE pre/post,2026-10-18 08:00,44.6,79.1
+mad-cae-18,MAD-ENG-01,PoweredOn,32,64,800,470,ENG-CTR-01,Engineering IT,CAE pre/post,2026-07-26 08:00,47.4,83.4
+mad-cae-19,MAD-ENG-01,PoweredOn,32,64,500,236,ENG-CTR-01,Engineering IT,CAE pre/post,2026-09-11 08:00,67.1,89.0
+mad-cae-20,MAD-ENG-01,PoweredOn,32,64,80,51,ENG-CTR-01,Engineering IT,CAE pre/post,2026-07-17 08:00,66.6,46.7
+mad-cae-21,MAD-ENG-01,PoweredOn,32,64,800,374,ENG-CTR-01,Engineering IT,CAE pre/post,2026-08-15 08:00,36.5,52.8
+mad-lic-01,MAD-ENG-01,PoweredOn,16,32,500,280,ENG-CTR-01,Engineering IT,Licence servers,2026-07-25 08:00,76.9,67.7
+mad-lic-02,MAD-ENG-01,PoweredOn,8,32,500,290,ENG-CTR-01,Engineering IT,Licence servers,2026-09-18 08:00,47.1,64.2
+mad-lic-03,MAD-ENG-01,PoweredOn,8,32,80,56,ENG-CTR-01,Engineering IT,Licence servers,2026-09-15 08:00,76.3,89.9
+mad-lic-04,MAD-ENG-01,PoweredOn,16,32,500,250,ENG-CTR-01,Engineering IT,Licence servers,2026-09-28 08:00,56.5,50.0
+mad-lic-05,MAD-ENG-01,PoweredOn,32,64,500,360,ENG-CTR-01,Engineering IT,Licence servers,2026-08-04 08:00,38.8,47.8
+mad-lic-06,MAD-ENG-01,PoweredOn,32,64,300,233,ENG-CTR-01,Engineering IT,Licence servers,2026-10-16 08:00,36.2,75.2
+mad-lic-07,MAD-ENG-01,PoweredOn,8,32,80,37,ENG-CTR-01,Engineering IT,Licence servers,2026-07-30 08:00,80.8,72.2
+mad-lic-08,MAD-ENG-01,PoweredOn,16,32,80,51,ENG-CTR-01,Engineering IT,Licence servers,2026-07-21 08:00,40.6,89.5
+mad-lic-09,MAD-ENG-01,PoweredOn,32,64,300,203,ENG-CTR-01,Engineering IT,Licence servers,2026-09-17 08:00,83.8,89.4
+mad-lic-10,MAD-ENG-01,PoweredOn,8,32,120,55,ENG-CTR-01,Engineering IT,Licence servers,2026-10-15 08:00,52.4,58.2
+mad-lic-11,MAD-ENG-01,PoweredOn,16,32,300,235,ENG-CTR-01,Engineering IT,Licence servers,2026-09-12 08:00,70.3,57.6
+mad-lic-12,MAD-ENG-01,PoweredOn,8,32,120,84,ENG-CTR-01,Engineering IT,Licence servers,2026-08-02 08:00,67.3,77.4
+mad-lic-13,MAD-ENG-01,PoweredOn,32,64,120,84,ENG-CTR-01,Engineering IT,Licence servers,2026-09-23 08:00,41.5,58.4
+mad-lic-14,MAD-ENG-01,PoweredOn,16,32,200,117,ENG-CTR-01,Engineering IT,Licence servers,2026-07-09 08:00,63.1,74.3
+mad-lic-15,MAD-ENG-01,PoweredOn,32,64,200,130,ENG-CTR-01,Engineering IT,Licence servers,2026-10-16 08:00,76.1,48.3
+mad-lic-16,MAD-ENG-01,PoweredOn,16,32,800,400,ENG-CTR-01,Engineering IT,Licence servers,2026-08-31 08:00,47.1,71.0
+mad-lic-17,MAD-ENG-01,PoweredOn,32,64,120,89,ENG-CTR-01,Engineering IT,Licence servers,2026-07-18 08:00,28.9,66.2
+mad-lic-18,MAD-ENG-01,PoweredOn,8,32,500,249,ENG-CTR-01,Engineering IT,Licence servers,2026-08-16 08:00,60.1,50.3
+mad-lic-19,MAD-ENG-01,PoweredOn,8,32,500,373,ENG-CTR-01,Engineering IT,Licence servers,2026-08-07 08:00,73.9,56.2
+mad-lic-20,MAD-ENG-01,PoweredOn,32,64,80,59,ENG-CTR-01,Engineering IT,Licence servers,2026-07-07 08:00,71.7,63.5
+mad-lic-21,MAD-ENG-01,PoweredOn,16,32,200,133,ENG-CTR-01,Engineering IT,Licence servers,2026-10-14 08:00,59.5,46.1
+mad-sim-01,MAD-ENG-01,PoweredOn,32,64,80,40,ENG-CTR-01,Engineering IT,Simulation farm,2026-10-24 08:00,40.9,75.1
+mad-sim-02,MAD-ENG-01,PoweredOn,32,64,300,160,ENG-CTR-01,Engineering IT,Simulation farm,2026-10-21 08:00,62.1,62.8
+mad-sim-03,MAD-ENG-01,PoweredOn,32,64,120,84,ENG-CTR-01,Engineering IT,Simulation farm,2026-10-09 08:00,68.1,79.8
+mad-sim-04,MAD-ENG-01,PoweredOn,8,32,800,501,ENG-CTR-01,Engineering IT,Simulation farm,2026-08-01 08:00,31.7,68.2
+mad-sim-05,MAD-ENG-01,PoweredOn,32,64,200,91,ENG-CTR-01,Engineering IT,Simulation farm,2026-09-08 08:00,70.3,55.8
+mad-sim-06,MAD-ENG-01,PoweredOn,16,32,200,127,ENG-CTR-01,Engineering IT,Simulation farm,2026-08-22 08:00,62.9,77.1
+mad-sim-07,MAD-ENG-01,PoweredOn,32,64,500,349,ENG-CTR-01,Engineering IT,Simulation farm,2026-10-24 08:00,33.7,45.2
+mad-sim-08,MAD-ENG-01,PoweredOn,8,32,300,183,ENG-CTR-01,Engineering IT,Simulation farm,2026-08-13 08:00,35.7,67.5
+mad-sim-09,MAD-ENG-01,PoweredOn,16,32,120,54,ENG-CTR-01,Engineering IT,Simulation farm,2026-07-23 08:00,64.3,86.7
+mad-sim-10,MAD-ENG-01,PoweredOn,16,32,80,52,ENG-CTR-01,Engineering IT,Simulation farm,2026-08-12 08:00,33.6,87.2
+mad-sim-11,MAD-ENG-01,PoweredOn,8,32,200,144,ENG-CTR-01,Engineering IT,Simulation farm,2026-07-04 08:00,67.1,71.1
+mad-sim-12,MAD-ENG-01,PoweredOn,16,32,800,435,ENG-CTR-01,Engineering IT,Simulation farm,2026-08-25 08:00,37.7,66.3
+mad-sim-13,MAD-ENG-01,PoweredOn,16,32,80,45,ENG-CTR-01,Engineering IT,Simulation farm,2026-07-27 08:00,42.1,49.1
+mad-sim-14,MAD-ENG-01,PoweredOn,8,32,300,196,ENG-CTR-01,Engineering IT,Simulation farm,2026-10-19 08:00,65.8,62.5
+mad-sim-15,MAD-ENG-01,PoweredOn,16,32,300,230,ENG-CTR-01,Engineering IT,Simulation farm,2026-09-07 08:00,60.6,84.5
+mad-sim-16,MAD-ENG-01,PoweredOn,16,32,120,65,ENG-CTR-01,Engineering IT,Simulation farm,2026-08-18 08:00,66.1,51.0
+mad-sim-17,MAD-ENG-01,PoweredOn,8,32,200,140,ENG-CTR-01,Engineering IT,Simulation farm,2026-08-11 08:00,41.6,65.8
+mad-sim-18,MAD-ENG-01,PoweredOn,32,64,300,219,ENG-CTR-01,Engineering IT,Simulation farm,2026-08-25 08:00,75.7,50.3
+mad-sim-19,MAD-ENG-01,PoweredOn,32,64,500,339,ENG-CTR-01,Engineering IT,Simulation farm,2026-08-12 08:00,48.2,80.8
+mad-sim-20,MAD-ENG-01,PoweredOn,8,32,500,323,ENG-CTR-01,Engineering IT,Simulation farm,2026-10-22 08:00,43.9,55.4
+mad-sim-21,MAD-ENG-01,PoweredOn,32,64,120,95,ENG-CTR-01,Engineering IT,Simulation farm,2026-07-23 08:00,62.0,50.3
+mad-sim-22,MAD-ENG-01,PoweredOn,32,64,300,226,ENG-CTR-01,Engineering IT,Simulation farm,2026-09-12 08:00,59.4,83.8
+ntx-cae-pre05,MAD-ENG-01,PoweredOn,16,128,400,273,ENG-CTR-01,Engineering IT,CAE pre/post,2026-08-18 08:00,14.0,16.0
+ntx-cae-pre06,MAD-ENG-01,PoweredOn,16,128,400,220,ENG-CTR-01,Engineering IT,CAE pre/post,2026-08-18 08:00,15.0,18.0
+ntx-old-sim-gpu,MAD-ENG-01,PoweredOff,32,64,1500,1051,ENG-CTR-01,Engineering IT,Old simulation node,2026-05-30 08:00,,
+ntx-old-sim-gpu2,MAD-ENG-01,PoweredOff,32,64,1500,809,ENG-CTR-01,Engineering IT,Old simulation node,2026-05-30 08:00,,
+mad-app-01,MAD-PROD-01,PoweredOn,16,64,80,37,MAD-NFS-01,Applications team,Line-of-business apps,2026-09-11 08:00,37.4,48.5
+mad-app-02,MAD-PROD-01,PoweredOn,8,32,120,76,MAD-NFS-01,Applications team,Line-of-business apps,2026-07-16 08:00,61.0,53.1
+mad-app-03,MAD-PROD-01,PoweredOn,8,32,200,144,MAD-NFS-03,Applications team,Line-of-business apps,2026-10-14 08:00,62.2,84.6
+mad-app-04,MAD-PROD-01,PoweredOn,16,64,80,46,MAD-NFS-03,Applications team,Line-of-business apps,2026-08-19 08:00,42.0,79.4
+mad-app-05,MAD-PROD-01,PoweredOn,16,64,80,41,MAD-NFS-03,Applications team,Line-of-business apps,2026-10-03 08:00,30.9,60.2
+mad-app-06,MAD-PROD-01,PoweredOn,8,32,120,69,MAD-NFS-02,Applications team,Line-of-business apps,2026-07-02 08:00,53.6,84.1
+mad-app-07,MAD-PROD-01,PoweredOn,2,8,300,234,MAD-NFS-03,Applications team,Line-of-business apps,2026-10-05 08:00,64.8,55.5
+mad-app-08,MAD-PROD-01,PoweredOn,4,16,120,73,MAD-NFS-03,Applications team,Line-of-business apps,2026-07-06 08:00,34.4,61.9
+mad-app-09,MAD-PROD-01,PoweredOn,4,16,120,88,MAD-NFS-02,Applications team,Line-of-business apps,2026-07-25 08:00,45.6,45.9
+mad-app-10,MAD-PROD-01,PoweredOn,4,16,500,239,MAD-NFS-02,Applications team,Line-of-business apps,2026-10-13 08:00,40.5,71.2
+mad-app-11,MAD-PROD-01,PoweredOn,8,48,500,322,MAD-NFS-03,Applications team,Line-of-business apps,2026-09-23 08:00,42.3,70.0
+mad-app-12,MAD-PROD-01,PoweredOn,8,32,300,187,MAD-NFS-01,Applications team,Line-of-business apps,2026-09-20 08:00,35.0,74.8
+mad-app-13,MAD-PROD-01,PoweredOn,16,64,300,148,MAD-NFS-01,Applications team,Line-of-business apps,2026-07-24 08:00,34.5,73.4
+mad-app-14,MAD-PROD-01,PoweredOn,8,32,80,49,MAD-NFS-02,Applications team,Line-of-business apps,2026-09-22 08:00,35.8,66.2
+mad-app-15,MAD-PROD-01,PoweredOn,2,8,300,160,MAD-NFS-03,Applications team,Line-of-business apps,2026-09-02 08:00,70.7,48.3
+mad-app-16,MAD-PROD-01,PoweredOn,8,48,500,366,MAD-NFS-02,Applications team,Line-of-business apps,2026-08-09 08:00,67.0,74.8
+mad-app-17,MAD-PROD-01,PoweredOn,8,48,200,116,MAD-NFS-01,Applications team,Line-of-business apps,2026-07-01 08:00,48.9,68.4
+mad-app-18,MAD-PROD-01,PoweredOn,4,16,120,85,MAD-NFS-02,Applications team,Line-of-business apps,2026-07-04 08:00,56.1,91.3
+mad-app-19,MAD-PROD-01,PoweredOn,8,32,200,91,MAD-NFS-03,Applications team,Line-of-business apps,2026-09-07 08:00,44.0,83.5
+mad-app-20,MAD-PROD-01,PoweredOn,2,8,120,72,MAD-NFS-02,Applications team,Line-of-business apps,2026-10-10 08:00,63.2,90.9
+mad-app-21,MAD-PROD-01,PoweredOn,8,32,120,73,MAD-NFS-03,Applications team,Line-of-business apps,2026-07-01 08:00,44.5,53.3
+mad-app-22,MAD-PROD-01,PoweredOn,16,64,800,430,MAD-NFS-02,Applications team,Line-of-business apps,2026-09-11 08:00,60.3,52.9
+mad-app-23,MAD-PROD-01,PoweredOn,2,8,500,369,MAD-NFS-02,Applications team,Line-of-business apps,2026-10-03 08:00,39.5,87.2
+mad-app-24,MAD-PROD-01,PoweredOn,16,64,800,601,MAD-NFS-02,Applications team,Line-of-business apps,2026-06-29 08:00,83.5,65.6
+mad-app-25,MAD-PROD-01,PoweredOn,16,64,120,70,MAD-NFS-03,Applications team,Line-of-business apps,2026-09-12 08:00,45.3,75.1
+mad-app-26,MAD-PROD-01,PoweredOn,8,32,300,210,MAD-NFS-01,Applications team,Line-of-business apps,2026-07-16 08:00,53.3,79.8
+mad-app-27,MAD-PROD-01,PoweredOn,8,48,200,94,MAD-NFS-03,Applications team,Line-of-business apps,2026-08-15 08:00,63.8,74.4
+mad-app-28,MAD-PROD-01,PoweredOn,8,32,200,142,MAD-NFS-01,Applications team,Line-of-business apps,2026-08-30 08:00,67.0,74.0
+mad-app-29,MAD-PROD-01,PoweredOn,8,32,800,623,MAD-NFS-03,Applications team,Line-of-business apps,2026-08-12 08:00,69.2,83.4
+mad-app-30,MAD-PROD-01,PoweredOn,4,16,800,466,MAD-NFS-01,Applications team,Line-of-business apps,2026-08-08 08:00,50.8,80.1
+mad-app-31,MAD-PROD-01,PoweredOn,8,32,500,390,MAD-NFS-01,Applications team,Line-of-business apps,2026-10-01 08:00,81.8,63.7
+mad-app-hr-test,MAD-PROD-01,PoweredOff,4,16,200,103,MAD-NFS-01,Applications team,HR test,2026-09-16 08:00,,
+mad-app-qms01,MAD-PROD-01,PoweredOn,16,64,250,133,MAD-NFS-02,Applications team,Quality system,2026-09-06 08:00,9.5,21.0
+mad-cad-01,MAD-PROD-01,PoweredOn,8,48,800,412,MAD-NFS-02,Engineering IT,CAD vault,2026-07-13 08:00,68.9,72.5
+mad-cad-02,MAD-PROD-01,PoweredOn,8,32,200,119,MAD-NFS-03,Engineering IT,CAD vault,2026-07-18 08:00,83.1,68.7
+mad-cad-03,MAD-PROD-01,PoweredOn,8,48,120,66,MAD-NFS-03,Engineering IT,CAD vault,2026-09-17 08:00,59.1,79.8
+mad-cad-04,MAD-PROD-01,PoweredOn,8,32,300,237,MAD-NFS-01,Engineering IT,CAD vault,2026-09-23 08:00,79.8,78.7
+mad-cad-05,MAD-PROD-01,PoweredOn,8,48,120,72,MAD-NFS-02,Engineering IT,CAD vault,2026-10-12 08:00,53.2,73.7
+mad-cad-06,MAD-PROD-01,PoweredOn,4,16,120,56,MAD-NFS-03,Engineering IT,CAD vault,2026-07-06 08:00,35.9,66.9
+mad-cad-07,MAD-PROD-01,PoweredOn,8,48,200,107,MAD-NFS-03,Engineering IT,CAD vault,2026-10-15 08:00,70.9,71.8
+mad-cad-08,MAD-PROD-01,PoweredOn,8,48,200,98,MAD-NFS-03,Engineering IT,CAD vault,2026-08-22 08:00,70.9,64.3
+mad-cad-09,MAD-PROD-01,PoweredOn,8,48,80,38,MAD-NFS-02,Engineering IT,CAD vault,2026-09-02 08:00,35.7,79.4
+mad-cad-10,MAD-PROD-01,PoweredOn,8,32,120,87,MAD-NFS-03,Engineering IT,CAD vault,2026-10-17 08:00,54.5,90.4
+mad-cad-11,MAD-PROD-01,PoweredOn,16,64,80,38,MAD-NFS-03,Engineering IT,CAD vault,2026-08-22 08:00,61.5,84.5
+mad-cad-12,MAD-PROD-01,PoweredOn,8,32,80,50,MAD-NFS-01,Engineering IT,CAD vault,2026-09-13 08:00,55.7,80.3
+mad-cad-13,MAD-PROD-01,PoweredOn,4,16,80,41,MAD-NFS-01,Engineering IT,CAD vault,2026-09-21 08:00,51.3,67.2
+mad-cad-14,MAD-PROD-01,PoweredOn,2,8,200,92,MAD-NFS-02,Engineering IT,CAD vault,2026-07-25 08:00,47.0,86.5
+mad-cad-15,MAD-PROD-01,PoweredOn,8,32,500,358,MAD-NFS-01,Engineering IT,CAD vault,2026-09-13 08:00,47.8,83.5
+mad-cad-16,MAD-PROD-01,PoweredOn,4,16,80,64,MAD-NFS-01,Engineering IT,CAD vault,2026-07-18 08:00,78.8,62.9
+mad-cad-17,MAD-PROD-01,PoweredOn,8,48,80,57,MAD-NFS-02,Engineering IT,CAD vault,2026-10-08 08:00,71.8,52.2
+mad-cad-18,MAD-PROD-01,PoweredOn,8,48,500,398,MAD-NFS-03,Engineering IT,CAD vault,2026-09-14 08:00,49.4,68.4
+mad-cad-19,MAD-PROD-01,PoweredOn,4,16,300,233,MAD-NFS-01,Engineering IT,CAD vault,2026-08-30 08:00,83.5,82.3
+mad-cad-20,MAD-PROD-01,PoweredOn,8,48,500,347,MAD-NFS-03,Engineering IT,CAD vault,2026-08-30 08:00,45.0,84.9
+mad-cad-21,MAD-PROD-01,PoweredOn,8,32,80,40,MAD-NFS-01,Engineering IT,CAD vault,2026-07-03 08:00,30.5,80.2
+mad-cad-22,MAD-PROD-01,PoweredOn,4,16,120,55,MAD-NFS-03,Engineering IT,CAD vault,2026-07-02 08:00,39.1,50.8
+mad-cad-23,MAD-PROD-01,PoweredOn,4,16,80,64,MAD-NFS-01,Engineering IT,CAD vault,2026-08-23 08:00,68.6,74.8
+mad-cad-24,MAD-PROD-01,PoweredOn,4,16,80,53,MAD-NFS-03,Engineering IT,CAD vault,2026-10-16 08:00,59.2,52.2
+mad-cad-25,MAD-PROD-01,PoweredOn,8,32,200,90,MAD-NFS-03,Engineering IT,CAD vault,2026-10-05 08:00,66.1,53.9
+mad-cad-26,MAD-PROD-01,PoweredOn,2,8,80,41,MAD-NFS-01,Engineering IT,CAD vault,2026-09-25 08:00,32.9,47.6
+mad-cad-27,MAD-PROD-01,PoweredOn,4,16,120,66,MAD-NFS-02,Engineering IT,CAD vault,2026-10-18 08:00,81.6,81.8
+mad-cad-28,MAD-PROD-01,PoweredOn,8,48,80,55,MAD-NFS-03,Engineering IT,CAD vault,2026-08-09 08:00,34.4,91.1
+mad-cad-29,MAD-PROD-01,PoweredOn,4,16,300,161,MAD-NFS-01,Engineering IT,CAD vault,2026-09-13 08:00,76.9,49.4
+mad-cad-30,MAD-PROD-01,PoweredOn,4,16,300,180,MAD-NFS-02,Engineering IT,CAD vault,2026-09-26 08:00,63.5,84.7
+mad-cad-31,MAD-PROD-01,PoweredOn,8,48,200,157,MAD-NFS-02,Engineering IT,CAD vault,2026-07-20 08:00,61.9,70.1
+mad-cad-32,MAD-PROD-01,PoweredOn,8,48,80,37,MAD-NFS-01,Engineering IT,CAD vault,2026-09-29 08:00,69.7,91.0
+mad-cad-vault02,MAD-PROD-01,PoweredOn,16,64,900,608,MAD-NFS-01,Engineering IT,CAD vault,2026-09-24 08:00,12.0,20.0
+mad-dev-sql07,MAD-PROD-01,PoweredOff,8,32,500,326,MAD-NFS-02,Database team,SQL Server dev,2026-08-24 08:00,,
+mad-erp-01,MAD-PROD-01,PoweredOn,16,64,500,384,MAD-NFS-01,ERP team,ERP,2026-07-21 08:00,58.0,85.6
+mad-erp-02,MAD-PROD-01,PoweredOn,2,8,800,409,MAD-NFS-02,ERP team,ERP,2026-07-12 08:00,56.2,63.6
+mad-erp-03,MAD-PROD-01,PoweredOn,2,8,300,155,MAD-NFS-03,ERP team,ERP,2026-08-07 08:00,28.6,66.9
+mad-erp-04,MAD-PROD-01,PoweredOn,8,32,120,84,MAD-NFS-03,ERP team,ERP,2026-07-13 08:00,75.1,76.6
+mad-erp-05,MAD-PROD-01,PoweredOn,8,48,800,481,MAD-NFS-03,ERP team,ERP,2026-07-17 08:00,56.6,63.7
+mad-erp-06,MAD-PROD-01,PoweredOn,16,64,80,38,MAD-NFS-01,ERP team,ERP,2026-07-09 08:00,49.5,46.1
+mad-erp-07,MAD-PROD-01,PoweredOn,4,16,80,61,MAD-NFS-03,ERP team,ERP,2026-09-29 08:00,80.9,55.9
+mad-erp-08,MAD-PROD-01,PoweredOn,2,8,200,129,MAD-NFS-02,ERP team,ERP,2026-10-01 08:00,67.7,82.2
+mad-erp-09,MAD-PROD-01,PoweredOn,4,16,80,45,MAD-NFS-02,ERP team,ERP,2026-08-26 08:00,67.3,64.5
+mad-erp-10,MAD-PROD-01,PoweredOn,4,16,500,313,MAD-NFS-01,ERP team,ERP,2026-10-05 08:00,72.6,45.2
+mad-erp-11,MAD-PROD-01,PoweredOn,4,16,500,392,MAD-NFS-01,ERP team,ERP,2026-07-06 08:00,70.1,63.6
+mad-erp-12,MAD-PROD-01,PoweredOn,4,16,800,588,MAD-NFS-01,ERP team,ERP,2026-09-12 08:00,29.0,83.2
+mad-erp-13,MAD-PROD-01,PoweredOn,2,8,80,58,MAD-NFS-01,ERP team,ERP,2026-07-16 08:00,74.5,84.4
+mad-erp-14,MAD-PROD-01,PoweredOn,4,16,80,59,MAD-NFS-03,ERP team,ERP,2026-07-29 08:00,83.4,53.1
+mad-erp-15,MAD-PROD-01,PoweredOn,4,16,80,36,MAD-NFS-03,ERP team,ERP,2026-08-12 08:00,67.2,71.2
+mad-erp-16,MAD-PROD-01,PoweredOn,2,8,500,279,MAD-NFS-03,ERP team,ERP,2026-09-24 08:00,57.9,88.2
+mad-erp-17,MAD-PROD-01,PoweredOn,8,32,120,82,MAD-NFS-03,ERP team,ERP,2026-07-29 08:00,41.2,57.2
+mad-erp-18,MAD-PROD-01,PoweredOn,16,64,300,159,MAD-NFS-01,ERP team,ERP,2026-07-10 08:00,50.7,88.2
+mad-erp-19,MAD-PROD-01,PoweredOn,4,16,80,41,MAD-NFS-01,ERP team,ERP,2026-08-06 08:00,54.6,91.6
+mad-erp-20,MAD-PROD-01,PoweredOn,8,32,80,48,MAD-NFS-01,ERP team,ERP,2026-07-10 08:00,52.8,45.1
+mad-erp-21,MAD-PROD-01,PoweredOn,2,8,120,68,MAD-NFS-01,ERP team,ERP,2026-07-10 08:00,62.2,45.4
+mad-erp-22,MAD-PROD-01,PoweredOn,4,16,120,88,MAD-NFS-03,ERP team,ERP,2026-08-13 08:00,67.0,69.6
+mad-erp-23,MAD-PROD-01,PoweredOn,8,48,120,75,MAD-NFS-01,ERP team,ERP,2026-10-21 08:00,36.7,46.4
+mad-erp-24,MAD-PROD-01,PoweredOn,8,48,80,45,MAD-NFS-01,ERP team,ERP,2026-09-05 08:00,61.0,88.6
+mad-erp-25,MAD-PROD-01,PoweredOn,8,48,200,125,MAD-NFS-02,ERP team,ERP,2026-08-11 08:00,47.9,80.2
+mad-erp-26,MAD-PROD-01,PoweredOn,8,32,80,54,MAD-NFS-02,ERP team,ERP,2026-10-10 08:00,38.9,62.6
+mad-erp-27,MAD-PROD-01,PoweredOn,8,32,200,148,MAD-NFS-02,ERP team,ERP,2026-09-10 08:00,43.1,46.5
+mad-erp-28,MAD-PROD-01,PoweredOn,16,64,120,58,MAD-NFS-03,ERP team,ERP,2026-10-03 08:00,51.4,82.0
+mad-erp-29,MAD-PROD-01,PoweredOn,8,32,800,576,MAD-NFS-02,ERP team,ERP,2026-09-27 08:00,84.8,50.7
+mad-erp-30,MAD-PROD-01,PoweredOn,8,32,80,39,MAD-NFS-02,ERP team,ERP,2026-09-02 08:00,71.9,63.0
+mad-erp-31,MAD-PROD-01,PoweredOn,4,16,80,44,MAD-NFS-01,ERP team,ERP,2026-10-08 08:00,66.8,74.7
+mad-erp-32,MAD-PROD-01,PoweredOn,8,32,80,54,MAD-NFS-03,ERP team,ERP,2026-07-28 08:00,78.0,45.5
+mad-erp-app03,MAD-PROD-01,PoweredOn,16,64,300,170,MAD-NFS-02,ERP team,ERP,2026-08-26 08:00,10.0,19.0
+mad-erp-app04,MAD-PROD-01,PoweredOn,16,64,300,181,MAD-NFS-02,ERP team,ERP,2026-08-26 08:00,8.0,22.0
+mad-mig-tmp03,MAD-PROD-01,PoweredOn,8,32,250,187,MAD-NFS-02,,Migration helper,2025-12-31 08:00,0.5,5.0
+mad-old-erp-rpt,MAD-PROD-01,PoweredOn,8,32,400,196,MAD-NFS-01,ERP team,ERP reporting (old),2025-09-22 08:00,1.5,9.0
+mad-old-erp-test,MAD-PROD-01,PoweredOff,8,32,900,431,MAD-NFS-02,ERP team,ERP test (old),2026-02-09 08:00,,
+mad-old-plm-v10,MAD-PROD-01,PoweredOff,8,32,1800,949,MAD-NFS-01,PLM team,PLM v10 (retired),2025-09-12 08:00,,
+mad-plm-01,MAD-PROD-01,PoweredOn,8,32,120,57,MAD-NFS-03,PLM team,PLM,2026-09-11 08:00,77.3,58.4
+mad-plm-02,MAD-PROD-01,PoweredOn,8,48,80,51,MAD-NFS-02,PLM team,PLM,2026-10-04 08:00,60.9,76.7
+mad-plm-03,MAD-PROD-01,PoweredOn,16,64,80,44,MAD-NFS-01,PLM team,PLM,2026-10-10 08:00,82.1,53.3
+mad-plm-04,MAD-PROD-01,PoweredOn,8,48,800,385,MAD-NFS-02,PLM team,PLM,2026-10-24 08:00,53.7,73.8
+mad-plm-05,MAD-PROD-01,PoweredOn,8,32,300,198,MAD-NFS-01,PLM team,PLM,2026-10-06 08:00,39.9,54.8
+mad-plm-06,MAD-PROD-01,PoweredOn,16,64,80,44,MAD-NFS-01,PLM team,PLM,2026-09-05 08:00,60.1,79.5
+mad-plm-07,MAD-PROD-01,PoweredOn,4,16,300,191,MAD-NFS-01,PLM team,PLM,2026-10-17 08:00,34.8,81.5
+mad-plm-08,MAD-PROD-01,PoweredOn,2,8,120,81,MAD-NFS-02,PLM team,PLM,2026-08-21 08:00,41.2,70.6
+mad-plm-09,MAD-PROD-01,PoweredOn,4,16,120,71,MAD-NFS-02,PLM team,PLM,2026-08-22 08:00,53.8,51.5
+mad-plm-10,MAD-PROD-01,PoweredOn,4,16,120,92,MAD-NFS-01,PLM team,PLM,2026-07-14 08:00,72.8,51.2
+mad-plm-11,MAD-PROD-01,PoweredOn,4,16,300,187,MAD-NFS-03,PLM team,PLM,2026-08-09 08:00,32.9,59.9
+mad-plm-12,MAD-PROD-01,PoweredOn,8,48,800,591,MAD-NFS-02,PLM team,PLM,2026-08-26 08:00,76.3,65.4
+mad-plm-13,MAD-PROD-01,PoweredOn,8,48,200,113,MAD-NFS-03,PLM team,PLM,2026-08-21 08:00,62.9,76.0
+mad-plm-14,MAD-PROD-01,PoweredOn,16,64,300,146,MAD-NFS-02,PLM team,PLM,2026-09-22 08:00,59.3,46.4
+mad-plm-15,MAD-PROD-01,PoweredOn,16,64,500,327,MAD-NFS-01,PLM team,PLM,2026-08-25 08:00,79.5,48.6
+mad-plm-16,MAD-PROD-01,PoweredOn,2,8,800,461,MAD-NFS-01,PLM team,PLM,2026-08-25 08:00,39.5,46.2
+mad-plm-17,MAD-PROD-01,PoweredOn,8,32,200,133,MAD-NFS-01,PLM team,PLM,2026-07-19 08:00,42.5,48.5
+mad-plm-18,MAD-PROD-01,PoweredOn,2,8,800,637,MAD-NFS-01,PLM team,PLM,2026-07-13 08:00,35.7,68.3
+mad-plm-19,MAD-PROD-01,PoweredOn,4,16,800,365,MAD-NFS-03,PLM team,PLM,2026-08-16 08:00,46.0,48.0
+mad-plm-20,MAD-PROD-01,PoweredOn,4,16,80,42,MAD-NFS-03,PLM team,PLM,2026-08-23 08:00,55.5,53.3
+mad-plm-21,MAD-PROD-01,PoweredOn,8,48,200,138,MAD-NFS-01,PLM team,PLM,2026-08-19 08:00,59.8,62.6
+mad-plm-22,MAD-PROD-01,PoweredOn,16,64,120,62,MAD-NFS-02,PLM team,PLM,2026-10-08 08:00,57.4,54.2
+mad-plm-23,MAD-PROD-01,PoweredOn,8,32,120,64,MAD-NFS-02,PLM team,PLM,2026-06-29 08:00,60.2,46.6
+mad-plm-24,MAD-PROD-01,PoweredOn,8,48,300,174,MAD-NFS-01,PLM team,PLM,2026-07-18 08:00,38.2,66.9
+mad-plm-25,MAD-PROD-01,PoweredOn,4,16,800,539,MAD-NFS-02,PLM team,PLM,2026-08-24 08:00,79.8,52.5
+mad-plm-26,MAD-PROD-01,PoweredOn,8,32,80,61,MAD-NFS-01,PLM team,PLM,2026-07-14 08:00,30.0,50.2
+mad-plm-27,MAD-PROD-01,PoweredOn,2,8,200,150,MAD-NFS-01,PLM team,PLM,2026-07-16 08:00,45.3,49.3
+mad-plm-28,MAD-PROD-01,PoweredOn,4,16,80,42,MAD-NFS-02,PLM team,PLM,2026-08-31 08:00,47.6,48.7
+mad-plm-29,MAD-PROD-01,PoweredOn,2,8,500,361,MAD-NFS-02,PLM team,PLM,2026-09-25 08:00,62.6,83.7
+mad-plm-30,MAD-PROD-01,PoweredOn,8,32,200,111,MAD-NFS-01,PLM team,PLM,2026-10-23 08:00,30.8,64.8
+mad-plm-31,MAD-PROD-01,PoweredOn,8,32,500,330,MAD-NFS-03,PLM team,PLM,2026-10-17 08:00,50.4,67.2
+mad-plm-32,MAD-PROD-01,PoweredOn,2,8,300,239,MAD-NFS-01,PLM team,PLM,2026-09-15 08:00,42.0,91.9
+mad-plm-app01,MAD-PROD-01,PoweredOn,16,64,400,194,MAD-NFS-02,PLM team,PLM,2026-09-17 08:00,11.0,20.0
+mad-plm-app02,MAD-PROD-01,PoweredOn,16,64,400,227,MAD-NFS-02,PLM team,PLM,2026-09-17 08:00,12.0,21.0
+mad-plm-idx01,MAD-PROD-01,PoweredOn,16,64,600,398,MAD-NFS-02,PLM team,PLM,2026-09-17 08:00,9.0,18.0
+mad-poc-ai01,MAD-PROD-01,PoweredOn,8,32,500,348,MAD-NFS-01,Data & analytics,Proof of concept,2026-05-20 08:00,0.8,4.0
+mad-poc-ai02,MAD-PROD-01,PoweredOn,8,32,500,240,MAD-NFS-01,Data & analytics,Proof of concept,2026-05-20 08:00,0.9,4.0
+mad-poc-gis01,MAD-PROD-01,PoweredOff,4,16,600,311,MAD-NFS-02,Digital team,GIS proof of concept,2026-06-24 08:00,,
+mad-sql-01,MAD-PROD-01,PoweredOn,4,16,80,38,MAD-NFS-02,Database team,SQL Server,2026-07-30 08:00,56.3,46.1
+mad-sql-02,MAD-PROD-01,PoweredOn,4,16,120,55,MAD-NFS-02,Database team,SQL Server,2026-09-05 08:00,66.8,57.2
+mad-sql-03,MAD-PROD-01,PoweredOn,8,32,120,81,MAD-NFS-02,Database team,SQL Server,2026-08-08 08:00,55.6,68.3
+mad-sql-04,MAD-PROD-01,PoweredOn,2,8,500,246,MAD-NFS-03,Database team,SQL Server,2026-10-11 08:00,56.1,82.5
+mad-sql-05,MAD-PROD-01,PoweredOn,8,48,500,304,MAD-NFS-02,Database team,SQL Server,2026-09-26 08:00,70.0,54.4
+mad-sql-06,MAD-PROD-01,PoweredOn,8,32,120,60,MAD-NFS-02,Database team,SQL Server,2026-08-20 08:00,44.4,80.7
+mad-sql-07,MAD-PROD-01,PoweredOn,4,16,800,592,MAD-NFS-02,Database team,SQL Server,2026-07-18 08:00,38.1,68.2
+mad-sql-08,MAD-PROD-01,PoweredOn,16,64,120,65,MAD-NFS-02,Database team,SQL Server,2026-10-07 08:00,79.8,85.8
+mad-sql-09,MAD-PROD-01,PoweredOn,8,32,500,301,MAD-NFS-03,Database team,SQL Server,2026-07-26 08:00,71.3,48.0
+mad-sql-10,MAD-PROD-01,PoweredOn,2,8,300,174,MAD-NFS-02,Database team,SQL Server,2026-07-29 08:00,43.7,78.3
+mad-sql-11,MAD-PROD-01,PoweredOn,4,16,800,512,MAD-NFS-02,Database team,SQL Server,2026-09-27 08:00,34.0,56.6
+mad-sql-12,MAD-PROD-01,PoweredOn,8,48,200,108,MAD-NFS-03,Database team,SQL Server,2026-08-08 08:00,67.4,78.1
+mad-sql-13,MAD-PROD-01,PoweredOn,8,32,800,388,MAD-NFS-01,Database team,SQL Server,2026-10-18 08:00,41.7,82.0
+mad-sql-14,MAD-PROD-01,PoweredOn,8,48,800,413,MAD-NFS-02,Database team,SQL Server,2026-10-23 08:00,81.5,46.1
+mad-sql-15,MAD-PROD-01,PoweredOn,8,32,800,404,MAD-NFS-03,Database team,SQL Server,2026-10-10 08:00,56.8,73.8
+mad-sql-16,MAD-PROD-01,PoweredOn,2,8,120,66,MAD-NFS-03,Database team,SQL Server,2026-09-14 08:00,81.2,45.1
+mad-sql-17,MAD-PROD-01,PoweredOn,8,32,200,96,MAD-NFS-03,Database team,SQL Server,2026-09-27 08:00,78.7,78.2
+mad-sql-18,MAD-PROD-01,PoweredOn,16,64,500,268,MAD-NFS-01,Database team,SQL Server,2026-10-04 08:00,54.9,54.1
+mad-sql-19,MAD-PROD-01,PoweredOn,16,64,80,49,MAD-NFS-02,Database team,SQL Server,2026-09-28 08:00,50.4,83.8
+mad-sql-20,MAD-PROD-01,PoweredOn,8,32,500,266,MAD-NFS-02,Database team,SQL Server,2026-08-04 08:00,62.9,82.2
+mad-sql-21,MAD-PROD-01,PoweredOn,8,32,120,60,MAD-NFS-01,Database team,SQL Server,2026-08-12 08:00,73.8,89.6
+mad-sql-22,MAD-PROD-01,PoweredOn,2,8,80,46,MAD-NFS-02,Database team,SQL Server,2026-10-23 08:00,57.7,52.4
+mad-sql-23,MAD-PROD-01,PoweredOn,8,48,120,71,MAD-NFS-03,Database team,SQL Server,2026-07-15 08:00,54.1,53.4
+mad-sql-24,MAD-PROD-01,PoweredOn,4,16,120,67,MAD-NFS-02,Database team,SQL Server,2026-10-01 08:00,71.8,84.3
+mad-sql-25,MAD-PROD-01,PoweredOn,16,64,300,173,MAD-NFS-01,Database team,SQL Server,2026-08-02 08:00,45.1,67.8
+mad-sql-26,MAD-PROD-01,PoweredOn,8,48,200,96,MAD-NFS-03,Database team,SQL Server,2026-10-06 08:00,75.3,59.8
+mad-sql-27,MAD-PROD-01,PoweredOn,4,16,500,367,MAD-NFS-02,Database team,SQL Server,2026-07-25 08:00,39.2,66.8
+mad-sql-28,MAD-PROD-01,PoweredOn,8,48,300,197,MAD-NFS-01,Database team,SQL Server,2026-10-15 08:00,61.5,54.4
+mad-sql-29,MAD-PROD-01,PoweredOn,8,32,80,38,MAD-NFS-02,Database team,SQL Server,2026-09-05 08:00,73.7,91.1
+mad-sql-30,MAD-PROD-01,PoweredOn,16,64,500,294,MAD-NFS-01,Database team,SQL Server,2026-07-26 08:00,44.0,61.5
+mad-sql-31,MAD-PROD-01,PoweredOn,4,16,200,130,MAD-NFS-01,Database team,SQL Server,2026-09-09 08:00,61.2,56.0
+mad-sql-prod02,MAD-PROD-01,PoweredOn,8,32,400,307,MAD-NFS-01,Database team,SQL Server,2026-09-27 08:00,41.0,66.0
+mad-test-plm09,MAD-PROD-01,PoweredOn,8,32,300,201,MAD-NFS-03,PLM team,PLM test,2026-03-31 08:00,1.2,6.0
+mad-tmp-copy01,MAD-PROD-01,PoweredOff,4,16,2000,936,MAD-NFS-03,,,2026-04-20 08:00,,
+mad-tmp-copy02,MAD-PROD-01,PoweredOff,4,16,2000,1333,MAD-NFS-03,,,2026-04-20 08:00,,
+mad-train-cad02,MAD-PROD-01,PoweredOn,8,32,300,219,MAD-NFS-01,Engineering IT,CAD training,2026-07-24 08:00,2.1,11.0
+mad-web-01,MAD-PROD-01,PoweredOn,8,48,200,112,MAD-NFS-01,Digital team,Intranet,2026-08-20 08:00,28.6,78.9
+mad-web-02,MAD-PROD-01,PoweredOn,8,48,80,52,MAD-NFS-03,Digital team,Intranet,2026-09-11 08:00,59.3,49.6
+mad-web-03,MAD-PROD-01,PoweredOn,8,48,800,592,MAD-NFS-02,Digital team,Intranet,2026-07-11 08:00,57.8,74.1
+mad-web-04,MAD-PROD-01,PoweredOn,2,8,300,181,MAD-NFS-01,Digital team,Intranet,2026-09-02 08:00,48.0,71.4
+mad-web-05,MAD-PROD-01,PoweredOn,16,64,500,251,MAD-NFS-03,Digital team,Intranet,2026-10-24 08:00,82.4,86.6
+mad-web-06,MAD-PROD-01,PoweredOn,2,8,800,375,MAD-NFS-02,Digital team,Intranet,2026-08-27 08:00,50.7,46.4
+mad-web-07,MAD-PROD-01,PoweredOn,8,48,200,150,MAD-NFS-02,Digital team,Intranet,2026-09-19 08:00,37.3,66.0
+mad-web-08,MAD-PROD-01,PoweredOn,4,16,200,141,MAD-NFS-02,Digital team,Intranet,2026-08-09 08:00,49.1,85.4
+mad-web-09,MAD-PROD-01,PoweredOn,4,16,80,41,MAD-NFS-01,Digital team,Intranet,2026-08-23 08:00,60.8,81.2
+mad-web-10,MAD-PROD-01,PoweredOn,8,32,300,194,MAD-NFS-02,Digital team,Intranet,2026-09-05 08:00,49.0,49.4
+mad-web-11,MAD-PROD-01,PoweredOn,8,48,120,94,MAD-NFS-03,Digital team,Intranet,2026-07-13 08:00,81.1,77.9
+mad-web-12,MAD-PROD-01,PoweredOn,8,48,800,372,MAD-NFS-01,Digital team,Intranet,2026-10-22 08:00,81.8,74.3
+mad-web-13,MAD-PROD-01,PoweredOn,16,64,500,308,MAD-NFS-02,Digital team,Intranet,2026-10-22 08:00,65.1,77.9
+mad-web-14,MAD-PROD-01,PoweredOn,8,32,120,61,MAD-NFS-01,Digital team,Intranet,2026-09-07 08:00,64.2,71.0
+mad-web-15,MAD-PROD-01,PoweredOn,4,16,80,49,MAD-NFS-01,Digital team,Intranet,2026-09-15 08:00,53.2,53.7
+mad-web-16,MAD-PROD-01,PoweredOn,2,8,120,58,MAD-NFS-02,Digital team,Intranet,2026-08-07 08:00,60.0,68.2
+mad-web-17,MAD-PROD-01,PoweredOn,4,16,300,227,MAD-NFS-01,Digital team,Intranet,2026-10-14 08:00,79.5,61.1
+mad-web-18,MAD-PROD-01,PoweredOn,4,16,800,436,MAD-NFS-01,Digital team,Intranet,2026-08-01 08:00,71.3,71.7
+mad-web-19,MAD-PROD-01,PoweredOn,8,32,500,285,MAD-NFS-01,Digital team,Intranet,2026-08-26 08:00,45.6,58.1
+mad-web-20,MAD-PROD-01,PoweredOn,4,16,500,226,MAD-NFS-03,Digital team,Intranet,2026-09-03 08:00,81.1,89.3
+mad-web-21,MAD-PROD-01,PoweredOn,8,32,80,63,MAD-NFS-02,Digital team,Intranet,2026-09-26 08:00,33.6,54.7
+mad-web-22,MAD-PROD-01,PoweredOn,4,16,80,61,MAD-NFS-01,Digital team,Intranet,2026-09-22 08:00,36.0,54.9
+mad-web-23,MAD-PROD-01,PoweredOn,8,32,300,208,MAD-NFS-03,Digital team,Intranet,2026-07-12 08:00,55.5,86.7
+mad-web-24,MAD-PROD-01,PoweredOn,2,8,200,127,MAD-NFS-01,Digital team,Intranet,2026-07-03 08:00,32.8,85.1
+mad-web-25,MAD-PROD-01,PoweredOn,2,8,200,137,MAD-NFS-01,Digital team,Intranet,2026-10-15 08:00,29.7,86.5
+mad-web-26,MAD-PROD-01,PoweredOn,4,16,200,127,MAD-NFS-01,Digital team,Intranet,2026-07-12 08:00,46.6,57.2
+mad-web-27,MAD-PROD-01,PoweredOn,8,32,500,390,MAD-NFS-02,Digital team,Intranet,2026-08-30 08:00,28.4,50.7
+mad-web-28,MAD-PROD-01,PoweredOn,16,64,200,135,MAD-NFS-02,Digital team,Intranet,2026-07-30 08:00,84.5,73.4
+mad-web-29,MAD-PROD-01,PoweredOn,16,64,800,615,MAD-NFS-01,Digital team,Intranet,2026-08-06 08:00,41.6,89.5
+mad-web-30,MAD-PROD-01,PoweredOn,8,48,800,589,MAD-NFS-02,Digital team,Intranet,2026-10-13 08:00,44.6,61.0
+mad-web-31,MAD-PROD-01,PoweredOn,8,48,300,192,MAD-NFS-02,Digital team,Intranet,2026-08-03 08:00,62.2,86.0
+mad-web-32,MAD-PROD-01,PoweredOn,4,16,200,155,MAD-NFS-03,Digital team,Intranet,2026-08-11 08:00,48.4,87.4
+mad-web-cms01,MAD-PROD-01,PoweredOn,16,64,200,141,MAD-NFS-02,Digital team,Intranet,2026-10-09 08:00,7.0,17.0
+mad-web-stg02,MAD-PROD-01,PoweredOff,4,16,150,77,MAD-NFS-02,Digital team,Intranet staging,2026-10-25 08:00,,

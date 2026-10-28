@@ -1,0 +1,43 @@
+{
+  "organisation": "Fabrikam Engineering",
+  "as_of": "2026-10-27",
+  "period": "2026-09",
+  "failover_hosts": 1,
+  "cpu_max_pct": 80,
+  "ram_max_pct": 90,
+  "warn_margin_pct": 10,
+  "vcpu_ratio_max": 4.0,
+  "ram_overcommit_max": 1.2,
+  "datastore_warn_free_pct": 20,
+  "datastore_crit_free_pct": 10,
+  "thin_overcommit_max": 1.5,
+  "history_months": 12,
+  "history_min_months": 6,
+  "forecast_months": 24,
+  "purchase_lead_months": 4,
+  "plan_horizon_months": 12,
+  "demand_statuses": [
+    "approved",
+    "committed"
+  ],
+  "demand_ram_factor": 1.0,
+  "poweredoff_warn_days": 30,
+  "poweredoff_reclaim_days": 90,
+  "idle_cpu_pct": 3,
+  "idle_mem_pct": 15,
+  "oversize_cpu_pct": 25,
+  "oversize_mem_pct": 30,
+  "rightsize_target_pct": 60,
+  "snapshot_max_days": 7,
+  "snapshot_crit_days": 30,
+  "availability_target_pct": 99.95,
+  "support_warn_days": 180,
+  "owners": {
+    "capacity": "Capacity manager",
+    "forecast": "Head of infrastructure",
+    "storage": "Storage team",
+    "reclaim": "Service owners",
+    "availability": "Platform team",
+    "lifecycle": "Platform team"
+  }
+}

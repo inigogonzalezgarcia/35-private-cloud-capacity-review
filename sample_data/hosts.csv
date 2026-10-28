@@ -1,0 +1,24 @@
+Host,Cluster,Vendor,Model,Cores,CPU total MHz,Memory GB,Connection state,Version,Firmware,Firmware target,Support end
+esx-mad-p01,MAD-PROD-01,Dell,PowerEdge R760,64,160000,1024,Connected,8.0.3 (24585383),2.3.5,2.3.5,2029-03-31
+esx-mad-p02,MAD-PROD-01,Dell,PowerEdge R760,64,160000,1024,Connected,8.0.3 (24585383),2.3.5,2.3.5,2029-03-31
+esx-mad-p03,MAD-PROD-01,Dell,PowerEdge R760,64,160000,1024,Connected,8.0.3 (24585383),2.3.5,2.3.5,2029-03-31
+esx-mad-p04,MAD-PROD-01,Dell,PowerEdge R760,64,160000,1024,Connected,8.0.3 (24585383),2.3.5,2.3.5,2029-03-31
+esx-mad-p05,MAD-PROD-01,Dell,PowerEdge R760,64,160000,1024,Connected,8.0.3 (24585383),2.3.5,2.3.5,2029-03-31
+esx-mad-p06,MAD-PROD-01,Dell,PowerEdge R760,64,160000,1024,Connected,8.0.3 (24585383),2.3.5,2.3.5,2029-03-31
+esx-mad-p07,MAD-PROD-01,Dell,PowerEdge R760,64,160000,1024,Connected,8.0.3 (24585383),2.2.4,2.3.5,2029-03-31
+esx-mad-p08,MAD-PROD-01,Dell,PowerEdge R760,64,160000,1024,Connected,8.0.3 (24585383),2.3.5,2.3.5,2029-03-31
+ntx-mad-e01,MAD-ENG-01,Nutanix,NX-3170-G8,56,145600,768,Connected,AHV 10.0 / AOS 6.10,,,2028-06-30
+ntx-mad-e02,MAD-ENG-01,Nutanix,NX-3170-G8,56,145600,768,Connected,AHV 10.0 / AOS 6.10,,,2028-06-30
+ntx-mad-e03,MAD-ENG-01,Nutanix,NX-3170-G8,56,145600,768,Connected,AHV 10.0 / AOS 6.10,,,2028-06-30
+ntx-mad-e04,MAD-ENG-01,Nutanix,NX-3170-G8,56,145600,768,Connected,AHV 10.0 / AOS 6.10,,,2028-06-30
+ntx-mad-e05,MAD-ENG-01,Nutanix,NX-3170-G8,56,145600,768,Connected,AHV 10.0 / AOS 6.10,,,2028-06-30
+ntx-mad-e06,MAD-ENG-01,Nutanix,NX-3170-G8,56,145600,768,Connected,AHV 10.0 / AOS 6.10,,,2028-06-30
+esx-gdl-p01,GDL-PROD-01,HPE,ProLiant DL380 Gen11,64,153600,1024,Connected,8.0.2 (22380479),2.30,2.30,2028-11-30
+esx-gdl-p02,GDL-PROD-01,HPE,ProLiant DL380 Gen11,64,153600,1024,Connected,8.0.2 (22380479),2.30,2.30,2028-11-30
+esx-gdl-p03,GDL-PROD-01,HPE,ProLiant DL380 Gen11,64,153600,1024,Connected,8.0.2 (22380479),2.30,2.30,2028-11-30
+esx-gdl-p04,GDL-PROD-01,HPE,ProLiant DL380 Gen11,64,153600,1024,Connected,8.0.2 (22380479),2.30,2.30,2028-11-30
+esx-gdl-p05,GDL-PROD-01,HPE,ProLiant DL380 Gen10,40,96000,768,Connected,8.0.2 (22380479),3.10,3.10,2026-06-30
+esx-gdl-p06,GDL-PROD-01,HPE,ProLiant DL380 Gen10,40,96000,768,Connected,8.0.2 (22380479),3.10,3.10,2026-06-30
+esx-gdl-m01,GDL-MGMT-01,Dell,PowerEdge R660,32,89600,512,Connected,8.0.3 (24585383),2.2.4,2.3.5,2027-02-28
+esx-gdl-m02,GDL-MGMT-01,Dell,PowerEdge R660,32,89600,512,Connected,8.0.3 (24585383),2.2.4,2.3.5,2027-02-28
+esx-gdl-m03,GDL-MGMT-01,Dell,PowerEdge R660,32,89600,512,Maintenance,8.0.3 (24585383),2.2.4,2.3.5,2027-02-28

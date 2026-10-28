@@ -1,0 +1,8 @@
+VM,Snapshot,Created,Size GB
+mad-erp-app03,before ERP patch 2025-Q4,2026-03-31 08:00,640
+mad-plm-idx01,pre-upgrade,2026-07-24 08:00,420
+mad-sql-prod02,before CU update,2026-09-12 08:00,310
+mad-cad-vault02,test,2026-10-15 08:00,85
+mad-web-cms01,Backup temporary snapshot,2026-10-26 08:00,6
+gdl-app-ivr01,before OS upgrade,2026-08-28 08:00,220
+gdl-mon-prx01,before agent update,2026-09-17 08:00,35

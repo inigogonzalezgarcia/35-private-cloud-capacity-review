@@ -1,0 +1,5 @@
+Cluster,Site,Platform,Failover hosts,HA policy
+MAD-PROD-01,Madrid,vSphere 8.0 U3,1,Cluster resource percentage (1 host)
+MAD-ENG-01,Madrid,Nutanix AHV (AOS 6.10),1,"Nutanix HA, reserve 1 node (RF2)"
+GDL-PROD-01,Guadalajara,vSphere 8.0 U2,1,Cluster resource percentage (1 host)
+GDL-MGMT-01,Guadalajara,vSphere 8.0 U3,1,Host failures cluster tolerates: 1
